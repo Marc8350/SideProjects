@@ -1,0 +1,172 @@
+Kapitel;Kriterium;Titel ;Beschreibung
+5 Information on the General Conditions of the AI Service ;BC-01 System Description ;Information on the General Conditions of the AI service;"In the system description, the AI service pro-
+vider sets out precise and comprehensible spec-
+ifications regarding the AI service. Goals, design
+and application of the AI service are docu-
+mented. Policies and guidelines for the provi-
+sion of the AI service are outlined.
+The system description covers at least the fol-
+lowing general aspects:
+
+System specifications for the compati-
+bility of AI model(s) within the scope
+of the AI service and how it is inte-
+grated into general IT systems;
+
+Regulatory and legal requirements as
+well as international standards applied
+for the AI service itself or related data;
+
+Description of the infrastructure, net-
+work and system components used for
+development and operation of the AI
+service as well as measures taken to en-
+sure the integrity of the latter;
+
+Complementary responsibilities of the
+user and subservices. "
+5 Information on the General Conditions of the AI Service ;BC-02 Security & Robustness;Information on the General Conditions of the Al service;"As part of the system description (BC-01), the AI
+service provider states comprehensive infor-
+mation allowing a (potential) Al service user to
+understand the suitability of robustness and se-
+curity measures for the specific Al service.
+The information provided covers at least the
+following aspects:
+
+Procedure for the measurement and
+quantification of robustness;
+
+Level of robustness the Al service pro-
+vider guarantees and why it is suffi-
+cient for the service at hand;
+
+Limits of the robustness of the Al
+model(s) within the scope of the AI ser-
+vice."
+5 Information on the General Conditions of the AI Service ;BC-03 Performance & Functionality;Information on the General Conditions of the Al service;"As part of the system description (BC-01), the AI
+Service provider presents comprehensive in-
+formation allowing a (potential) Al service user
+to understand and evaluate the suitability of
+the performance and functionality for in-
+tended use.
+The information provided includes at least the
+following aspects:
+
+Definition of objectives, impact and
+purpose of the Al service;
+
+Procedures and measures imple-
+mented to develop and operate the AI
+model(s) within the scope of the Al ser-
+vice;
+
+Performance measures used to evalu-
+ate the Al model(s) within the scope of
+the Al service;
+
+Selection of the implemented Al
+method (algorithms and data pro-
+cessing mechanisms) and an explana-
+tion why it is suited for the target ap-
+plication. Outline of the limitations
+and assumptions of the model;
+
+Training frequency of the AI model(s)
+within the scope of the Al service. In-
+formation whether it is a continuous
+learning system or whether there are
+defined learning cycles;
+
+Functionalities of the AI model(s)
+within the scope of the Al service. This
+includes a description of the task to be
+solved and inputs and outputs;
+
+Degree and potential impacts of auto-
+mated decision making;
+
+The extent to which users are able to
+correct or object to the results or deci-
+sions made by the Al service;
+
+Details on significant changes made
+during the audit period to procedures,
+controls and measures concerning the
+Al service. This includes changes made
+to the Al model(s) within the scope of
+the Al service itself (e.g. retraining,
+model change)."
+5 Information on the General Conditions of the AI Service ;BC-04 Reliability;Information on the General Conditions of the Al service;"As part of the system description (BC-01), the Al
+service provider presents comprehensive in-
+formation allowing a (potential) Al service user
+to understand and evaluate the reliability of the
+Al service, taking the provisioning of resources
+and incident handling into account.
+The information provided contains at least the
+following aspects:
+
+Logging carried out during operation.
+This includes an overview of the con-
+tent kept in logs as well as storage peri-
+ods and usage;
+
+Handling of significant incidents and
+conditions that lead to exceptions to
+regular operations. This includes a def-
+inition of such incidents and condi-
+tions as well as implemented safe-
+guards and disaster recovery manage-
+ment;
+
+Location, duration and responsibilities
+for storing and processing involved
+data and models."
+5 Information on the General Conditions of the AI Service ;BC-05 Data Quality & Data Management;Information on the General Conditions of the Al service;"As part of the system description (BC-01), the AI
+service provider states comprehensive infor-
+mation allowing a (potential) Al service user to
+understand and evaluate the suitability of the
+data quality and data management for the Al
+service.
+This information provided covers the follow-
+ing aspects:
+
+Description of data sources used for
+training and operation of the Al ser-
+vice;
+
+Roles and responsibilities assigned to
+business functions of the Al service
+provider regarding access and use of
+data;
+
+Description of the data selection;
+
+Description of the performed data pre-
+and post-processing steps."
+5 Information on the General Conditions of the AI Service ;BC-06 Explainability and Bias;Information on the General Conditions of the Al service;"As part of the system description (BC-01), the AI
+Service provider states comprehensive infor-
+mation allowing a (potential) Al service user to
+understand the degree of explainability and po-
+tential sources of bias for the Al service.
+This information covers the following aspects:
+
+Explainability of the Al model(s) within
+the scope of the Al service. This in-
+cludes a description of the level of ex-
+plainability and, if present, the parts of
+the AI model(s) that are not explaina-
+ble;
+
+Technical limitations of used methods
+and shortcomings regarding the iden-
+tified needs for explainability;
+
+Possible effects of bias that may impact
+the functionality of the service in a crit-
+ical way are outlined;
+
+Metrics and tolerance intervals for as-
+sessing bias are outlined;
+
+Critical bias currently not mitigated are
+outlined."
